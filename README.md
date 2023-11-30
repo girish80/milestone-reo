@@ -1,2 +1,2 @@
-There are 5 files with atteched there assets an style sheet .
-project1. and project2 made by HTML an css an Project 3,4,5 made by HTML an taiwind.
+There are 5 files with attached there assets an style sheet .
+Project1 and project2 made by HTML & CSS & Project 3,4,5 made by HTML & Tailwind CSS.
